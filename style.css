@@ -127,6 +127,10 @@ article img {
     height: 435px;
 }
 
+article img:hover{
+    opacity: 0.8;
+}
+
 article ul {
     font-size: 13px;
     letter-spacing: 0.8px;
@@ -175,10 +179,10 @@ article h2 {
 }
 
 .line-separator {
-    height: 0.2px;
+    height: 0.5px;
     background: #d8d8d8;
     border-bottom: 0.2px solid #d8d8d8;
-
+    
 }
 
 aside {
